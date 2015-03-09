@@ -17,17 +17,5 @@
   </dependencies>
   <build>
     <finalName>Ticketmaster</finalName>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-release-plugin</artifactId>
-        <version>3.2.5</version>
-      </plugin>
-    </plugins>
   </build>
-  <scm>
-	<connection>scm:git:git@github.com:AlbertPWilliams/git-demo.git</connection>
-	<url>scm:git:git@github.com:AlbertPWilliams/git-demo.git</url>
-	<developerConnection>scm:git:git@github.com:AlbertPWilliams/git-demo.git</developerConnection>
-  </scm>
 </project>
